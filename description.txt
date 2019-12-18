@@ -1,0 +1,8 @@
+
+state_name - The name of the state where the monitoring site is located.
+
+arithmetic_mean - The average (arithmetic mean) value for the day.
+
+units_of_measure - The unit of measure for the parameter. QAD always returns data in the standard units for the parameter. Submitters are allowed to report data i
+
+parameter_name - The name or description assigned in AQS to the parameter measured by the monitor. Parameters may be pollutants or non-pollutants.
